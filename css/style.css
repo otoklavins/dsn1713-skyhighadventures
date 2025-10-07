@@ -1,6 +1,5 @@
-.navbar-text {
+.navbar-brand {
     font-family: "Istok Web", sans-serif;
-    color: white;
 }
 
 .navbar {
@@ -8,6 +7,25 @@
   padding-bottom: 0.1rem
 }
 
-.discount-color {
-    color: #E63B3B;
+.nav-link:hover {
+    opacity: 75%;
+}
+
+.red-text {
+    color: #E63B3B !important; 
+}
+
+::placeholder {
+  color: #ffffff !important;
+}
+
+.btn-orange {
+    font-family: "Istok Web", sans-serif;
+    background-color: #FFB029;
+    color: white;  
+}
+
+.btn-orange:hover {
+    border-color: #FFB029;
+    color: #FFB029;
 }
