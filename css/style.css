@@ -1,0 +1,13 @@
+.navbar-text {
+    font-family: "Istok Web", sans-serif;
+    color: white;
+}
+
+.navbar {
+  padding-top: 0.1rem;   
+  padding-bottom: 0.1rem
+}
+
+.discount-color {
+    color: #E63B3B;
+}
