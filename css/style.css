@@ -32,6 +32,8 @@
 
 .hero {
     background-image: url(../images/neom-anozjF6uqI0-unsplash.jpg);
+    background-position: 90% 63%;
+    background-size: 135%;
     min-height: 450px;
 }
 
